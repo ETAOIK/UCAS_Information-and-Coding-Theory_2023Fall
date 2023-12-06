@@ -14,4 +14,4 @@ by Chenkai GUO
 | Bases for Linear codes, Generator/Parity-check matrix                 | HW-7             | 
 | Linear codes, Hamming codes, Coset, Syndrome, MDS codes               | HW-8             | 
 | Cyclic codes, Generator polynomials                                   | HW-9             | 
-| Special cyclic codes, Generator polynomials, Minimal polynomials      | HW-10            | 
+| Special cyclic codes, Generator polynomials, Finite Field             | HW-10            | 
