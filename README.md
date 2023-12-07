@@ -1,7 +1,7 @@
 # UCAS_Information-and-Coding-Theory_2023Fall
 国科大2023Fall-信息论与编码课程作业 ***(To be Finished)***
 
-by Chenkai GUO
+课程教材：Coding Theory: A First Course by San Ling & Chaoping Xing
 
 | 章节知识点(Chapter)                                                   | 作业(Homework)   | 
 | :-------------------------------------------------------------------- | -------          | 
