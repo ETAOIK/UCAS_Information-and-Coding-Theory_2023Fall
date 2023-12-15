@@ -1,7 +1,11 @@
 # UCAS_Information-and-Coding-Theory_2023Fall
-国科大2023Fall-信息论与编码课程作业 ***(To be Finished)***
+国科大2023Fall-信息论与编码课程作业 ***(Finished)***
+
+by 中国科学院信息工程研究所 吕克伟研究员、王丽萍研究员
 
 课程教材：Coding Theory: A First Course by San Ling & Chaoping Xing
+
+期末考试考点：假币识别问题，熵计算，霍夫曼编码，重复码（repetition codes）相关性质，特定码长的三元循环码的生成和校验矩阵，给定特定码长和设计距离的BCH码设计，对课程学习的认识
 
 | 章节知识点(Chapter)                                                   | 作业(Homework)   | 
 | :-------------------------------------------------------------------- | -------          | 
